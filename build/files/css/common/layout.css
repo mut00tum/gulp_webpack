@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@import url(base.css);
+/*extend*/
+/* 設定 */
+/* All
+/*-----------------------------------------------------------------------*/
+#all {
+  width: 100%;
+  min-width: 980px;
+  margin: 0 auto; }
